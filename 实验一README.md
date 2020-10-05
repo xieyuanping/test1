@@ -1,7 +1,7 @@
 通过命令 
 git config --global user.name和git config --global user.email 
 来查看自己配置好的用户名和邮箱地址<br>
-！[](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%871.png)
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%871.png)
 
 
 首先找到你已经建立好的***\*android工程目录\*******\*，\****然后右键Android_Lab，选择***\*Git Bash Here\****，出现一个Git Bash命令行窗口 <br>
