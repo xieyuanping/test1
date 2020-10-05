@@ -125,7 +125,7 @@
 ```
 
 截图：<br>
-
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%BA%8C/%E5%9B%BE%E7%89%871.png)
 
 
 2、ConstraintLayout
@@ -224,7 +224,7 @@
 ```
 
 截图：<br>
-
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%BA%8C/%E5%9B%BE%E7%89%872.png)
 
 
 3、表格布局
@@ -308,3 +308,4 @@
 ```
 
 截图：<br>
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%BA%8C/%E5%9B%BE%E7%89%873.png)
