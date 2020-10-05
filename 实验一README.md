@@ -11,22 +11,23 @@ git config --global user.name和git config --global user.email
 在Git Bash里面敲入 
 ***\*git add .\**** <br>
 
- 
+ ![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%873.png)
 
 敲入命令 
 ***\*git commit -m “commit info”\**** <br>
-
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%874.png)
  
 
 回到***\*Git Bash\****，在里面敲入 
 ***\*git remote add origin git@github.com:你的github账号名/你建立的仓库名.git\**** <br>
-
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%875.png)
  
 
 先敲入 
 ***\*git pull origin master\**** 
 再敲入 
 ***\*git push origin master\**** <br>
-
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%876.png)
+![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%877.png)
  
 
