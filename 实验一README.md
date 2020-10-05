@@ -6,7 +6,7 @@ git config --global user.name和git config --global user.email
 
 首先找到你已经建立好的***\*android工程目录\*******\*，\****然后右键Android_Lab，选择***\*Git Bash Here\****，出现一个Git Bash命令行窗口 <br>
 
- 
+ ![](https://github.com/xieyuanping/test1/blob/master/%E5%9B%BE%E7%89%87%E4%B8%80/%E5%9B%BE%E7%89%872.png)
 
 在Git Bash里面敲入 
 ***\*git add .\**** <br>
